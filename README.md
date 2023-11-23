@@ -47,7 +47,7 @@ Follow these steps to set up the YOLOv3 environment:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yolov3-object-detection.git
+   git clone https://github.com/Harish-Srinivas-07/object-detection.git
    ```
 
 2. Navigate to the project directory:
@@ -58,21 +58,21 @@ Follow these steps to set up the YOLOv3 environment:
 
 3. Download the YOLOv3 weights, configuration, and COCO object classes file:
 
-   - [yolov3.cfg](link-to-yolov3.cfg)
-   - [yolov3.weights](link-to-yolov3.weights)
-   - [coco.names](link-to-coco.names)
+   - [yolov3.cfg](https://github.com/Harish-Srinivas-07/object-detection/blob/main/cfg/yolov3.cfg)
+   - [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
+   - [coco.names](https://github.com/Harish-Srinivas-07/object-detection/blob/main/data/coco.names)
 
 4. Run the YOLOv3 object detection:
 
    ```bash
-   python object_detection_yolo.py
+   jupyter lab detection.ipynb
    ```
 
 ## 🤖 Theory
 
 ### YOLOv3 Architecture
 
-The neural network used by YOLOv3 consists mainly of convolutional layers, with shortcut connections and upsample layers. For a detailed description, refer to the [YOLOv3 Paper](link-to-yolov3-paper).
+The neural network used by YOLOv3 consists mainly of convolutional layers, with shortcut connections and upsample layers.
 
 ### Non-Maximal Suppression
 
@@ -95,7 +95,7 @@ To perform object detection in videos:
 Adjust parameters such as `weight_file`, `cfg_file`, `namesfile`, `iou_thresh`, and `nms_thresh` as needed.
 
 ```bash
-python video_object_detection.py
+jupyter lab detection.ipynb -> final phase
 ```
 
 ## 📊 Jupyter Lab Integration
@@ -108,7 +108,7 @@ To use YOLOv3 in Jupyter Lab:
    jupyter lab
    ```
 
-2. Open the provided `object_detection_yolo.ipynb` notebook.
+2. Open the provided `detection.ipynb` notebook.
 
 3. Run the cells in the notebook to perform object detection interactively.
 
