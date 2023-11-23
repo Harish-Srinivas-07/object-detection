@@ -61,6 +61,7 @@ Follow these steps to set up the YOLOv3 environment:
    - [yolov3.cfg](https://github.com/Harish-Srinivas-07/object-detection/blob/main/cfg/yolov3.cfg)
    - [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
    - [coco.names](https://github.com/Harish-Srinivas-07/object-detection/blob/main/data/coco.names)
+   - [drive link](https://tinyurl.com/yolov3weight)
 
 4. Run the YOLOv3 object detection:
 
