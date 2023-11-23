@@ -113,4 +113,3 @@ To use YOLOv3 in Jupyter Lab:
 3. Run the cells in the notebook to perform object detection interactively.
 
 Have fun exploring the world of YOLOv3 object detection! 🕵️‍♂️
-```
