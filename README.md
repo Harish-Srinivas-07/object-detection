@@ -61,13 +61,16 @@ Follow these steps to set up the YOLOv3 environment:
    - [yolov3.cfg](https://github.com/Harish-Srinivas-07/object-detection/blob/main/cfg/yolov3.cfg)
    - [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
    - [coco.names](https://github.com/Harish-Srinivas-07/object-detection/blob/main/data/coco.names)
-   - [drive link](https://tinyurl.com/yolov3weight)
+   - [full source drive](https://tinyurl.com/yolov3weight)
+   - [Project Ppt](https://tinyurl.com/yolov3ppt)
+   - [Project Pdf](https://tinyurl.com/yolov3pdf)
 
 4. Run the YOLOv3 object detection:
-
+   
    ```bash
    jupyter lab detection.ipynb
    ```
+6. **Important**: Download "yolov3.weights" [here](https://drive.google.com/file/d/1snANwm_9s5oITmh-h_PwdMjb9u6M7E_k/view?usp=sharing) and place it inside the `weights` folder.
 
 ## 🤖 Theory
 
@@ -112,5 +115,7 @@ To use YOLOv3 in Jupyter Lab:
 2. Open the provided `detection.ipynb` notebook.
 
 3. Run the cells in the notebook to perform object detection interactively.
+
+Please download "yolov3.weights" file and place inside weights folder to make program run
 
 Have fun exploring the world of YOLOv3 object detection! 🕵️‍♂️
