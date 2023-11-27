@@ -63,7 +63,7 @@ Follow these steps to set up the YOLOv3 environment:
    - [coco.names](https://github.com/Harish-Srinivas-07/object-detection/blob/main/data/coco.names)
    - [full source drive](https://tinyurl.com/yolov3weight)
    - [Project Ppt](https://tinyurl.com/yolov3ppt)
-   - [Project Pdf](https://tinyurl.com/yolov3pdf)
+   - [Project Pdf](https://drive.google.com/file/d/1PKtQOkkijqBMIO5bBCBWDLf3JXVYyvCI/view?usp=sharing)
 
 4. Run the YOLOv3 object detection:
    
